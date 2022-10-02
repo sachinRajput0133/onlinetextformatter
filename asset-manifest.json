@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/onlinetextformatter/static/css/main.3d6e961e.css",
-    "main.js": "/onlinetextformatter/static/js/main.9a369b16.js",
+    "main.js": "/onlinetextformatter/static/js/main.530a78dc.js",
     "index.html": "/onlinetextformatter/index.html",
     "main.3d6e961e.css.map": "/onlinetextformatter/static/css/main.3d6e961e.css.map",
-    "main.9a369b16.js.map": "/onlinetextformatter/static/js/main.9a369b16.js.map"
+    "main.530a78dc.js.map": "/onlinetextformatter/static/js/main.530a78dc.js.map"
   },
   "entrypoints": [
     "static/css/main.3d6e961e.css",
-    "static/js/main.9a369b16.js"
+    "static/js/main.530a78dc.js"
   ]
 }
