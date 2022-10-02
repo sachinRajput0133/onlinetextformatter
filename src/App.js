@@ -1,4 +1,4 @@
-import About from "./components/About";
+// import About from "./components/About";
 import Navbar from "./components/Navbar";
 import TextForm from "./components/TextForm";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
@@ -38,7 +38,7 @@ function App() {
 
         <Routes>
           <Route
-            path="/"
+            path="/onlinetextformatter"
             element={
               <TextForm
                 showAlert={showAlert}
@@ -47,7 +47,7 @@ function App() {
               />
             }
           />
-          <Route path="/about" element={<About mode={mode} />} />
+         
         </Routes>
       </Router>
     </>
